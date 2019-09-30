@@ -18,7 +18,8 @@ body.post-template {
 }
 
 a {
-   color: #00ab6b;
+   /* color: #00ab6b; */
+   color: red;
 }
 
 a,
